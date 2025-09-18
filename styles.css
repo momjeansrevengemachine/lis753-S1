@@ -18,3 +18,13 @@ p img{
   margin-bottom: 30px;
   float: right;
 }
+
+a {
+  color: #2A4161;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+  color: #17666D;
+}

@@ -7,7 +7,7 @@ p {
   color: #17666D;
 }
 figure img {
-  width: 30%;
+  width: 20%;
   height: auto;
 }
 
@@ -29,7 +29,7 @@ ul {
   display: flex;
   list-style: none;
   padding: 10;
-  width: 700px;
+  width: 500px;
   border: 5px solid #2A4161;
 }
 

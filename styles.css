@@ -3,7 +3,7 @@ h1 {
   color: #2A4161;
 }
 
-#site-title {
+h1#site-title {
   font-family: garamond;
   color: #2A4161;
   font-weight: bold;

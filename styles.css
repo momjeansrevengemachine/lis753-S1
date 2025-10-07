@@ -2,6 +2,15 @@ h1 {
   font-family: garamond;
   color: #2A4161;
 }
+
+#site-title {
+  font-family: garamond;
+  color: #2A4161;
+  font-weight: bold;
+  font-size: 64px;
+  letter-spacing: 3px;
+}
+
 p {
   font-family: helvetica;
   color: #17666D;

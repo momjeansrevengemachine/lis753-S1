@@ -1,0 +1,146 @@
+h1#page-header {
+  background-image: url(https://t3.ftcdn.net/jpg/02/84/68/70/360_F_284687065_WqALgJLQAhxLlsuqz8NjYjWrts2ONbXk.jpg);
+  font-size: 50px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.header-item {
+  margin: 10px;
+  color: white;
+}
+
+h2 {
+  width: 60%;
+  font-size: 24px;
+  text-align: left;
+  margin: auto;
+  text-decoration: underline;
+  padding: 8px;
+}
+
+h3 {
+  width: 60%;
+  font-size: 20px;
+  text-align: left;
+  margin: auto;
+  font-style: italic;
+  padding: 5px;
+}
+
+ul#nav-bar {
+  background-color: #8f2a3e;
+  height: 40px;
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+}
+
+ul#footer {
+  background-color: #8f2a3e;
+  height: 80px;
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+}
+
+.footer-item {
+  margin: 10px;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:active {
+  color: #d4a480;
+}
+
+.body-link {
+  color: #8f2a3e;
+}
+
+.hf-link {
+  color: white;
+}
+
+.body-text {
+  width: 60%;
+  font-size: 18px;
+  text-align: justify;
+  margin: auto;
+  padding: 2px;
+}
+
+.image-content {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.hours-table {
+  background-color: #8f2a3e;
+  height: 40px;
+  font-size: 18px;
+  list-style: none;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  margins: auto;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  justify-content: center;
+  margin: auto;
+  padding: 10px;
+  color: white;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #8f2a3e;
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+figure {
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  flex-direction: column;
+}
+
+figcaption {
+  text-align: center;
+  position: relative;
+  margin-top: 2 px;        
+  font-size: 10 px;                        
+}
